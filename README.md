@@ -1,6 +1,6 @@
 # @ztrehagem/nuxt-thin-modal
 
-This plugin brings `$modal` of [vue-thin-modal](https://github.com/ktsn/vue-thin-modal) into store and context.
+This plugin injects `$modal` of [vue-thin-modal](https://github.com/ktsn/vue-thin-modal) into store and context.
 
 ## Installation
 
