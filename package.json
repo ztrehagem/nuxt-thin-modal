@@ -1,6 +1,6 @@
 {
   "name": "@ztrehagem/nuxt-thin-modal",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Inject $modal of vue-thin-modal into store and context of Nuxt.js.",
   "main": "index.js",
   "files": [
