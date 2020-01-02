@@ -34,7 +34,7 @@
     "modal"
   ],
   "author": "Shigeki Suwa <shigeki.suwa@ztrehagem.dev>",
-  "license": "MIT",
+  "license": "UNLICENSED",
   "bugs": {
     "url": "https://github.com/ztrehagem/nuxt-thin-modal/issues"
   },
