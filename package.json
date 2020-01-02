@@ -1,0 +1,27 @@
+{
+  "name": "@ztrehagem/nuxt-thin-modal",
+  "version": "0.1.0",
+  "description": "Inject `$modal` of vue-thin-modal on Nuxt.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ztrehagem/nuxt-thin-modal.git"
+  },
+  "keywords": [
+    "Nuxt.js",
+    "vue-thin-modal",
+    "modal"
+  ],
+  "author": "Shigeki Suwa <shigeki.suwa@ztrehagem.dev>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ztrehagem/nuxt-thin-modal/issues"
+  },
+  "homepage": "https://github.com/ztrehagem/nuxt-thin-modal#readme",
+  "dependencies": {
+    "vue-thin-modal": "^1.3.0"
+  }
+}
